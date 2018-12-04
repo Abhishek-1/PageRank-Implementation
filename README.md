@@ -1,4 +1,4 @@
-# MS-Apriori-Algorithm
+# PageRank Implementation
 
 Implementation of PageRank to derive a ranking of words in a document based on their PageRank scores. The PageRank score of a word serves as an indicator
 of the importance of the word in the text.
